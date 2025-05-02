@@ -1,7 +1,7 @@
 {
-    "name": "node-rdpjs-2",
-    "author": "chimyking",
-    "version": "0.3.6",
+    "name": "node-rdpjs-3",
+    "author": "Takayuki Uchida",
+    "version": "0.4.0",
     "engines": {
         "node": ">=8.5.0"
     },
@@ -9,7 +9,7 @@
     "license": "AGPL-3.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/chimyking/node-rdpjs"
+        "url": "https://github.com/taka-uttiy/node-rdpjs"
     },
     "main": "lib/index.js",
     "dependencies": {
