@@ -18,7 +18,7 @@ npm install node-rdpjs
 Or work with dev branch :
 
 ```
-git clone https://github.com/citronneur/node-rdpjs.git
+git clone https://github.com/taka-uttiy/node-rdpjs.git
 cd node-rdpjs
 npm install
 ```
